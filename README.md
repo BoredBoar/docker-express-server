@@ -1,5 +1,5 @@
 # docker-express-server
-##Base project with a docker-compose, node(express), knockout/socket.io stack
+## Base project with a docker-compose, node(express), knockout/socket.io stack
 
 RUN:
 
